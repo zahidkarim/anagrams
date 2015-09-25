@@ -12,7 +12,7 @@ To test app run `bundle exec rspec`
 
 To run app:
 
-1. run `bundle exec` (assuming you have bundler installed)
+1. run `bundle install` (assuming you have bundler installed)
 1. run `ruby lib/anagrams.rb #{search_word1} #{search_word2} #{search_word3} #{search_word4}....`
 
 ### Example Test Case
